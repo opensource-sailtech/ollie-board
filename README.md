@@ -1,7 +1,8 @@
 # ollie-board
 Replace the vhf radio as the single source of truth about  
 - course  
-- start time  
+- start time (count down)  
+- duration (count up)  
 - heading  
 - distance  
 - marks  
