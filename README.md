@@ -7,6 +7,7 @@ Replace the vhf radio as the single source of truth about
 - marks  
 - fleets  
 - individual / general recalls  
+
 Address needs of various regatta types (fleet / match / team racing)
 
 ## requirements
